@@ -5,8 +5,9 @@
             {% csrf_token %}
             <input type="text" name="name" placeholder="Name" required/><br/>
             <textarea name="body" placeholder="Tell us anything" required></textarea><br/>
+            <input type="file" name="image" id="uploadfile" /> <br>
             <input type="submit" value="Post" />
-            <input type="file" name="image" id="uploadfile" />
+           
         </form>
     </section>
     <section class="posts">
