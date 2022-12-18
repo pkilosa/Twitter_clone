@@ -6,8 +6,9 @@ To make the project simple, we do not have a sign/login function.
 So there are not user accounts and follow function. You can challenge after you finish the course.
 Check out [LIVE DEMO here!!](https://Twitterclone-2.whoswho2.repl.co)
 
-# Screen![Screenshot 2022-12-16 021656](https://user-images.githubusercontent.com/111322998/208283990-a27f236e-277e-428a-b806-de1b8bdb1329.png)
-shot
+# Screenshot
+![Screenshot 2022-12-16 021656](https://user-images.githubusercontent.com/111322998/208283990-a27f236e-277e-428a-b806-de1b8bdb1329.png)
+
 
 
 
